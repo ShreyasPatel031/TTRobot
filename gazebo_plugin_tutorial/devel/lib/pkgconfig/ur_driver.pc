@@ -1,0 +1,8 @@
+prefix=/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.7
+Cflags: -I/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure

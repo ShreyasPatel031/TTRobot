@@ -1,0 +1,8 @@
+prefix=/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel
+
+Name: moveit_resources
+Description: Description of moveit_resources
+Version: 0.6.5
+Cflags: -I/home/shreyas/catkin_ws/src/moveit_resources/include -I/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

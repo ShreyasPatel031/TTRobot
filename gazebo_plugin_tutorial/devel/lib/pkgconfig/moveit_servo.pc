@@ -1,0 +1,8 @@
+prefix=/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel
+
+Name: moveit_servo
+Description: Description of moveit_servo
+Version: 1.0.5
+Cflags: -I/home/shreyas/catkin_ws/src/moveit/moveit_ros/moveit_servo/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lmoveit_servo_cpp_api
+Requires: control_msgs geometry_msgs moveit_msgs moveit_ros_planning_interface rosparam_shortcuts sensor_msgs std_msgs trajectory_msgs

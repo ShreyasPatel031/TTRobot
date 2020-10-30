@@ -1,0 +1,8 @@
+prefix=/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel
+
+Name: tt_robot_moveit_config
+Description: Description of tt_robot_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

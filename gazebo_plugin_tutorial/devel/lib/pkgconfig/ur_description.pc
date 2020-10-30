@@ -1,0 +1,8 @@
+prefix=/home/shreyas/catkin_ws/src/gazebo_plugin_tutorial/devel
+
+Name: ur_description
+Description: Description of ur_description
+Version: 1.2.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

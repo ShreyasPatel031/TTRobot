@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: moveit_controller_manager_example
+Description: Description of moveit_controller_manager_example
+Version: 1.0.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core roscpp
