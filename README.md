@@ -1,4 +1,10 @@
-# TTRobot ( In Progress ) 
+# Teachin a UR10 arm  how to play Table Tennis ( In Progress ) 
+This project attempts to use reinforcement learning using an actor critic model to teach a robotic arm how to play table tennis.
+
+# Requirements
+
+  - ROS Distro: Melodic
+  - Gazebo version 9.14.0
 
 # Setup
 ## World File
