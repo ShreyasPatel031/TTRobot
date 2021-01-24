@@ -1,4 +1,4 @@
-# Teachin a UR10 arm  how to play Table Tennis ( In Progress ) 
+# Teaching a UR10 arm  how to play Table Tennis ( In Progress ) 
 This project attempts to use reinforcement learning using an actor critic model to teach a robotic arm how to play table tennis.
 
 # Requirements
